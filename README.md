@@ -3,3 +3,4 @@
 
 ## Генерация изображений с помощью pix2pix
 
+![alt text](screenshots/filename.png "Описание будет тут")
