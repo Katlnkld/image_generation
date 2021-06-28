@@ -3,4 +3,4 @@
 
 ## Генерация изображений с помощью pix2pix
 
-![alt text](pix2pix/images/facade1.JPG "Описание будет тут")
+![alt text](images/facade1.JPG "Описание будет тут")
