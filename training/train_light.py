@@ -1,28 +1,20 @@
 import numpy as np
 import pandas as pd
-
-# Загрузка
 import os
 from torch.utils.data import DataLoader, Dataset
 from glob import glob
 from pathlib import Path
 from PIL import Image
-
-# Архиектура нейронной сети
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import torchvision.transforms as tt
-
-# Отображение изображений
 import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(style='darkgrid', font_scale=1.2)
 from torchvision.utils import make_grid
 from IPython.display import clear_output
-# %matplotlib inline
-
 from tqdm.notebook import tqdm
 from torchsummary import summary
 import re
