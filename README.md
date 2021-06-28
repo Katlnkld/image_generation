@@ -16,6 +16,6 @@
 Модель обучилась хорошо и позволяет улучшать качество затемненных фотографий. Стали видны детали, которые на исходных фотографиях не разобрать невооруженным глазом.
 Веса модели для этой задачи можно скачать [здесь](https://drive.google.com/file/d/1-6SVuwMmZkHgLB9nF3-kng4509S80-3a/view?usp=sharing).
 
-Если файл .ipyt не открывается на github, его можно посмотреть [тут](https://colab.research.google.com/drive/1BSyBz6s9Al2i7DNh2dVZTvJtUww16Wct?usp=sharing).
+Если файл блокнота .ipynb не открывается на github, его можно посмотреть [тут](https://colab.research.google.com/drive/1BSyBz6s9Al2i7DNh2dVZTvJtUww16Wct?usp=sharing).
 
 Больше примеров с результатами работы модели можно найти в папке */images*.
